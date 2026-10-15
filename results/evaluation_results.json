@@ -1,0 +1,8 @@
+{
+  "selected_epoch": 9,
+  "baseline_test_accuracy": 0.7756975293159485,
+  "selected_validation_accuracy": 0.8421438932418823,
+  "selected_test_accuracy": 0.8447136282920837,
+  "selected_test_loss": 0.45208972692489624,
+  "validation_macro_f1_rounded": 0.8
+}
